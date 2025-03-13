@@ -24,5 +24,6 @@ public class ExampleArrayList {
         System.out.println("Array de nombres " + names);
 
 
+
     }
 }
