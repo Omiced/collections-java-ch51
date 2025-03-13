@@ -12,7 +12,8 @@ public class ExcersicesHashMap {
 
         System.out.println(wordCount);
 
-    }
+        HashMap<String,Integer>learners = new HashMap<>();
+        learners.put("Cristian", 24);
 
-    HashMap<String,Integer>learners = new HashMap<>();
+    }
 }
