@@ -10,10 +10,9 @@ public class ExcersicesHashMap {
             wordCount.put(word, wordCount.getOrDefault(word,0) + 1);
         }
 
-        System.out.println(wordCount);
+        System.out.println(wordCount); }
 
-    }
-
-    HashMap<String,Integer>learners = new HashMap<>();
-	learners.put("Adair",24);
+         HashMap<String,Integer>learners = new HashMap<>();
+         learners.put("Adair",24);
+         learners.put("Diego", 28);
 }
