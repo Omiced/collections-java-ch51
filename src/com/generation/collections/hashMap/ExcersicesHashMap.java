@@ -15,4 +15,5 @@ public class ExcersicesHashMap {
     }
 
     HashMap<String,Integer>learners = new HashMap<>();
+    learners.put("Raziel G", 25);
 }
