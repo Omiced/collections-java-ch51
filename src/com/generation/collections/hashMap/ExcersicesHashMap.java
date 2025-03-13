@@ -18,6 +18,7 @@ public class ExcersicesHashMap {
     learners.put("Carlos", 27);
   learners.put("Raziel G", 25);
         learners.put("Antonio", 26);
+        learners.put("EdgarJ",29);
     }
 
 }
