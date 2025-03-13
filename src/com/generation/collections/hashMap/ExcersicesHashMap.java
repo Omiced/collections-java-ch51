@@ -11,10 +11,11 @@ public class ExcersicesHashMap {
         }
 
         System.out.println(wordCount);
+    HashMap<String,Integer>learners = new HashMap<>();
+	learners.put("Adair",24);
+    learners.put("Osbaldo",30);
+    learners.put("Josue", 31);
 
-        HashMap<String,Integer>learners = new HashMap<>();
-        learners.put("Adair",24);
-        learners.put("Josue", 31);
     }
 
 }
